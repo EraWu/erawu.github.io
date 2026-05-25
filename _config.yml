@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Era Songzhi Wu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Dartmouth College"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1ZgyIsQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
@@ -62,7 +62,7 @@ author:
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
-  google_plus      : https://scholar.google.com/citations?user=1ZgyIsQAAAAJ&hl=en
+  google_plus      : 
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
